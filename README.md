@@ -1,6 +1,6 @@
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) TO DO LIST 
 
-#TOOL
+TOOLS
 -BOOTSTRAP
 -HTML
 -JS
